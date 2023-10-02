@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Axe4GitHub
+- 👀 I'm interested in learning more about you.
+- 🌱 I’m currently learning Glua, Lua, JS
+- 📫 my discord - @axees.
